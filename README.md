@@ -22,7 +22,6 @@ To build a comprehensive Postman collection that covers key e-commerce scenarios
 ## 🛠 Tools Used
 
 - **Postman** – main testing tool
-- **Newman** – command-line collection runner
 - JavaScript (for assertions and tests)
 - Environments & Variables
 
